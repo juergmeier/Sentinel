@@ -1,15 +1,4 @@
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-
-Permissions	Conditions	Limitations
- Commercial use
- Distribution
- Modification
- Private use
- License and copyright notice
- Liability
- Warranty
-
- MIT License
+MIT License
 
 Copyright (c) 2021 Juerg Meier
 
@@ -29,4 +18,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+<<<<<<< HEAD
 SOFTWARE.
+=======
+SOFTWARE.
+>>>>>>> da412de74a5ce12e4323736cd629bb0677624357
