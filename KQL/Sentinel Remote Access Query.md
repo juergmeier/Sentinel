@@ -3,7 +3,7 @@ Sentinel Remote Access Query
 
 ## Description
 Check remote access to Azure Systems / Portals
-Credits to Contributor: Juerg, Thanks Alex for the ideal with his KQL Scritps. 
+Credits to Contributor: Juerg, Thanks Alex for the idea with his KQL Scritps. 
 
 ```kusto
 ## Query
