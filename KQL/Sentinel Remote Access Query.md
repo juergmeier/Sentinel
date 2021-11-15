@@ -1,12 +1,15 @@
+
 # Sentinel Remote Access Query
-Sentinel Remote Access Query 
 
 ## Description
+
 Check remote access to Azure Systems / Portals
-Credits to Contributor: Juerg, Thanks Alex for the idea with his KQL Scritps. 
+Credits to Contributor: Juerg, Thanks Alex for the idea with his KQL Script.
 
 ```kusto
+
 ## Query
+
 // check for network events originating from these IPs
 let bvLocalPort ="3389";
 let bvRemoteIPType = "Public"; // Loopback, Unspecified, Private, Public
